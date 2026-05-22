@@ -1,4 +1,4 @@
-# My share
+# 📤 My share
 
 My share is a high-performance, responsive Peer-to-Peer (P2P) file-sharing application designed for the modern web. Built with WebRTC, it allows you to transfer files directly between devices without the need for a backend server, making it the perfect tool to host for free on GitHub Pages.
 
